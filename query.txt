@@ -1,0 +1,11 @@
+mysql> insert into products(image, item, para, price, createdAt, updatedAt) values('images/4.jpg', 'WOMEN', 'Trending fashion for women with extra discount. Stay Classy !!', 10.00, CURDATE(), CURDATE());
+
+mysql> insert into products(image, item, para, price, createdAt, updatedAt) values ('images/men.jpg', 'MEN', 'Latest fashion for men with all kinds of variety !!', 18.00, CURDATE(), CURDATE());
+
+mysql> insert into products(image, item, para, price, createdAt, updatedAt) values ('images/office.jpg', 'FORMALS', 'For professional look and trendy style shop this soon..', 15.00, CURDATE(), CURDATE());
+
+mysql> insert into products(image, item, para, price, createdAt, updatedAt) values ('images/2.jpg', 'KIDS', 'Perfect for kids as it adds to their comfort and style..', 20.00, CURDATE(), CURDATE());
+
+mysql> insert into products(image, item, para, price, createdAt, updatedAt) values ('images/party.jpg', 'PARTY_WEAR', 'Get this in to your wardrobe and add the charm in party ..!!', 14.00, CURDATE(), CURDATE());
+
+mysql> insert into products(image, item, para, price, createdAt, updatedAt) values ('images/casual.jpg', 'CASUAL', 'Get extra discount on these casual wears....grab soon..', 10.00, CURDATE(), CURDATE());
